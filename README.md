@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Linguagens e Técnicas de Programação 1 em Python
+# Lista de Exercícios 2 - Linguagens e Técnicas de Programação 1 em Python
 
 
 Integrantes do grupo:
